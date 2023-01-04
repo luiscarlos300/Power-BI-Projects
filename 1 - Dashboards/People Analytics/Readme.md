@@ -11,7 +11,7 @@ Home Experience is a medium-sized company with an office headquartered in downto
 
 ### Dashboard
 
-<a href="https://lh3.googleusercontent.com/drive-viewer/AJc5JmR8Cn9zcPj-uKCOvZ_Dnh3c8e4Ij3RnZ1vFlo79Ko9uFduqNaXxsXFGIa03Gf_38j9t8aDqoSY=w1366-h629"><img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmR8Cn9zcPj-uKCOvZ_Dnh3c8e4Ij3RnZ1vFlo79Ko9uFduqNaXxsXFGIa03Gf_38j9t8aDqoSY=w1366-h629" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFDK6gPyWibwUbSW8ukP7ZX7uvZdlRG_6WRvnnRfPR6fhH2uJ_wpyt8Yfm3QGT7_EFbqoE9rpt7_kA0dFaolSigIflos92dwfg=w1366-h629"><img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gPyWibwUbSW8ukP7ZX7uvZdlRG_6WRvnnRfPR6fhH2uJ_wpyt8Yfm3QGT7_EFbqoE9rpt7_kA0dFaolSigIflos92dwfg=w1366-h629" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNWY1NGY2MDItYTY1Yi00YWFjLTliMmEtN2YwZTZmOTRiYjkwIiwidCI6IjAzOTg0NmQxLWY3ODEtNDRlMy04NGZhLTkzOWZiNGI5MDc0YSJ9&pageName=ReportSection" target="_blank">Click here to see the Dashboard.</a>
 
@@ -30,6 +30,6 @@ A Home Experience é uma empresa de médio porte com escritório sediado no cent
 
 ### Dashboard
 
-<a href="https://lh3.googleusercontent.com/drive-viewer/AJc5JmR8Cn9zcPj-uKCOvZ_Dnh3c8e4Ij3RnZ1vFlo79Ko9uFduqNaXxsXFGIa03Gf_38j9t8aDqoSY=w1366-h629"><img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmR8Cn9zcPj-uKCOvZ_Dnh3c8e4Ij3RnZ1vFlo79Ko9uFduqNaXxsXFGIa03Gf_38j9t8aDqoSY=w1366-h629" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFDK6gPyWibwUbSW8ukP7ZX7uvZdlRG_6WRvnnRfPR6fhH2uJ_wpyt8Yfm3QGT7_EFbqoE9rpt7_kA0dFaolSigIflos92dwfg=w1366-h629"><img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gPyWibwUbSW8ukP7ZX7uvZdlRG_6WRvnnRfPR6fhH2uJ_wpyt8Yfm3QGT7_EFbqoE9rpt7_kA0dFaolSigIflos92dwfg=w1366-h629" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNWY1NGY2MDItYTY1Yi00YWFjLTliMmEtN2YwZTZmOTRiYjkwIiwidCI6IjAzOTg0NmQxLWY3ODEtNDRlMy04NGZhLTkzOWZiNGI5MDc0YSJ9&pageName=ReportSection" target="_blank">Clique aqui para ver o Dashboard.</a>
