@@ -10,7 +10,7 @@ Contábil Expert is a company that provides accounting services based in Blumena
 
 ### Dashboard
 
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFDK6gPurDCGUCYDW2K7CmzuxnoxGyVTDwnwrt53LPhvhlRvQTMKE59oCvv-TzsivFMCorGwQT_7-6bxE-wWJ6UQ1612BN2i=w1366-h629"><img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gPurDCGUCYDW2K7CmzuxnoxGyVTDwnwrt53LPhvhlRvQTMKE59oCvv-TzsivFMCorGwQT_7-6bxE-wWJ6UQ1612BN2i=w1366-h629" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://raw.githubusercontent.com/luiscarlos300/Power-BI-Projects/refs/heads/master/Image/DRE2.png"><img src="https://raw.githubusercontent.com/luiscarlos300/Power-BI-Projects/refs/heads/master/Image/DRE2.png" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOGNiNTMwNjUtMTFkOS00ZjBhLTgzZjgtYmYzOThmMGYyNmFjIiwidCI6IjAzOTg0NmQxLWY3ODEtNDRlMy04NGZhLTkzOWZiNGI5MDc0YSJ9" target="_blank">Click here to see the Dashboard.</a>
 
@@ -30,6 +30,6 @@ A Contábil Expert é uma empresa de prestação de serviços contábeis sediada
 
 ### Dashboard
 
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFDK6gPurDCGUCYDW2K7CmzuxnoxGyVTDwnwrt53LPhvhlRvQTMKE59oCvv-TzsivFMCorGwQT_7-6bxE-wWJ6UQ1612BN2i=w1366-h629"><img src="https://lh3.googleusercontent.com/drive-viewer/AFDK6gPurDCGUCYDW2K7CmzuxnoxGyVTDwnwrt53LPhvhlRvQTMKE59oCvv-TzsivFMCorGwQT_7-6bxE-wWJ6UQ1612BN2i=w1366-h629" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://raw.githubusercontent.com/luiscarlos300/Power-BI-Projects/refs/heads/master/Image/DRE2.png"><img src="https://raw.githubusercontent.com/luiscarlos300/Power-BI-Projects/refs/heads/master/Image/DRE2.png" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOGNiNTMwNjUtMTFkOS00ZjBhLTgzZjgtYmYzOThmMGYyNmFjIiwidCI6IjAzOTg0NmQxLWY3ODEtNDRlMy04NGZhLTkzOWZiNGI5MDc0YSJ9" target="_blank">Clique aqui para ver o Dashboard.</a>
