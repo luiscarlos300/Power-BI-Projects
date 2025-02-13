@@ -14,6 +14,8 @@ Contábil Expert is a company that provides accounting services based in Blumena
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOGNiNTMwNjUtMTFkOS00ZjBhLTgzZjgtYmYzOThmMGYyNmFjIiwidCI6IjAzOTg0NmQxLWY3ODEtNDRlMy04NGZhLTkzOWZiNGI5MDc0YSJ9" target="_blank">Click here to see the Dashboard.</a>
 
+<a href="https://sites.google.com/view/projetosluiscarlos/p%C3%A1gina-inicial" target="_blank">Click here to explore more projects in my portfolio.</a>
+
 ##
 
 ### Descrição do projeto [pt-br]
@@ -33,3 +35,5 @@ A Contábil Expert é uma empresa de prestação de serviços contábeis sediada
 <a href="https://raw.githubusercontent.com/luiscarlos300/Power-BI-Projects/refs/heads/master/Image/DRE2.png"><img src="https://raw.githubusercontent.com/luiscarlos300/Power-BI-Projects/refs/heads/master/Image/DRE2.png" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiOGNiNTMwNjUtMTFkOS00ZjBhLTgzZjgtYmYzOThmMGYyNmFjIiwidCI6IjAzOTg0NmQxLWY3ODEtNDRlMy04NGZhLTkzOWZiNGI5MDc0YSJ9" target="_blank">Clique aqui para ver o Dashboard.</a>
+
+<a href="https://sites.google.com/view/projetosluiscarlos/p%C3%A1gina-inicial" target="_blank">Clique aqui para ver mais projetos no meu portfolio.</a>
